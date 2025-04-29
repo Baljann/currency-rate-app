@@ -37,6 +37,12 @@ Welcome to the **Currency Rate App** — a simple and effective tool to stay upd
 - View the latest USD and EUR exchange rates instantly!
 
 ---
+## 🙌 Acknowledgments
+
+This project was built as part of my front-end learning journey.  
+I’m excited to continue improving and building more interactive web experiences! 🌟
+
+---
 
 ## 💬 Feedback
 
